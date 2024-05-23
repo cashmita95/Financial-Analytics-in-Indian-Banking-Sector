@@ -1,0 +1,11 @@
+branch_id,bank_id,branch_name,branch_location,manager_name
+1,1,"SBI Main Branch",Mumbai,"Rakesh Mehta"
+2,1,"SBI Andheri Branch",Mumbai,"Anita Gupta"
+3,2,"ICICI Main Branch",Mumbai,"Rajesh Khanna"
+4,2,"ICICI Bandra Branch",Mumbai,"Sunita Rao"
+5,3,"HDFC Main Branch",Mumbai,"Vikas Bhatia"
+6,3,"HDFC Vashi Branch",Mumbai,"Priya Jain"
+7,4,"Axis Main Branch",Mumbai,"Karan Kapoor"
+8,4,"Axis Thane Branch",Thane,"Deepa Verma"
+9,5,"PNB Main Branch","New Delhi","Vikram Singh"
+10,5,"PNB Dwarka Branch","New Delhi","Meera Sharma"

@@ -1,0 +1,6 @@
+bank_id,bank_name,headquarters,founded_year,type
+1,"State Bank of India",Mumbai,1955-07-01,Public
+2,"HDFC Bank",Mumbai,1994-08-19,Private
+3,"ICICI Bank",Mumbai,1994-01-05,Private
+4,"Punjab National Bank","New Delhi",1894-05-19,Public
+5,"Axis Bank",Mumbai,1993-12-03,Private
